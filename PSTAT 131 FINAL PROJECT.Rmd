@@ -1,0 +1,22 @@
+---
+title: "PSTAT 131 Project"
+output: html_document
+date: "2022-10-17"
+---
+
+# FINAL PROJECT
+
+## Purpose
+
+The purpose of this project is to build a machine learning model that can predict used car prices.
+
+### Introduction
+
+Expenditure on cars is one of the biggest expenses in any household and with prices of new cars on a steep incline the used car market has boomed. According to Mathilde Carlier a ... US used car dealers had a market size of 138.1 billion in 2021 . Due to the scale of the expense and the assymetry of information between the seller and the buyer, buying a car can often prove to be a stressfull experience. This model and others like this provide a valuable tool for consumers, private party sellers and dealers that allows them to trade on real market value, thus ensuring fairer prices for everyone involved. 
+
+
+
+
+
+
+
